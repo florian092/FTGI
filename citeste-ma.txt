@@ -1,0 +1,15 @@
+Aceasta mostra de lucru face parte dintr-un proiect recent pe care l-am facut pentru mine,personal.
+
+Informatiile din acest website sunt doar pentru uz demonstrativ.
+Sectiunea 'Munca mea' cuprinde doar niste imagini dintr-un joc.
+Am folosit la realizarea intregului website:
+1. notepad++
+2. MySQL
+3. PHP(am folosit o abordare procedurala)
+4. Apache
+5. Smarty(3.1.21)
+6. cateva imagini din diferite desene animate si jocuri video(DevilMayCry)
+7. Fisierul w3.css de la W3C pentru ca reprezinta un fisier CSS destul de complex si care m-a ajutat foarte mult pe partea
+de design grafic al site-ului. Plus ca am folosit iconite din suita FontAwesome 4.7.0.
+Acest proiect o sa-l mai imbunatatesc si o sa-l mai rafinez, dar acum este doar o mostra de lucru.
+Structura de directoare este pastrata aproximativ ca pe sistemul de operare Debian, iar numele l-am ales pur intamplator(FTGI), nu cred ca are legatura cu numele vreunei firme.
